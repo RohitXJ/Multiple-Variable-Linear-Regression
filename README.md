@@ -29,8 +29,8 @@ This is an extension of simple linear regression where the model can handle **mo
 ```
 Multiple_Variable_Linear_Regression/
 ├── Multiple Variable Linear Regression.ipynb
-├── dataset.csv
-└── README.md
+├── README.md
+└── hiring.csv
 ```
 
 > 📌 *Note:* The dataset used is purely for practice/educational purposes. Feel free to replace it with your own for experimentation.
